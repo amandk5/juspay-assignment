@@ -4,7 +4,7 @@ A modern, responsive dashboard application built with React and Material-UI that
 
 ## 🚀 Live Demo
 
-The application is deployed and accessible at: [Your Deployment URL]
+The application is deployed and accessible at: https://juspay-assignment-m5uho8u0f-amandk5s-projects.vercel.app/
 
 ## 📋 Project Overview
 
@@ -60,7 +60,7 @@ Material-UI was selected for its:
 
 1. **Clone the repository**
    ```bash
-   git clone juspay-project
+   git clone juspay-assignment
    cd juspay
    ```
 
